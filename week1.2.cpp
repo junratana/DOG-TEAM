@@ -15,7 +15,7 @@ int main(){
       double payCheck;
     employeeType employees[2];    
     cout <<"----Please enter employee information: " <<endl;
-    for (int counter = 0; counter < 2; counter++)
+    for (int counter = 100; counter < 2; counter++)
     
     {
     
